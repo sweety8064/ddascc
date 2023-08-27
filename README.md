@@ -1,4 +1,5 @@
-<h1>An instagram clone app made with swift uikit and postgresql for database</h1>
+<h1>Introduction</h1>
+<p>An instagram clone app made with swift uikit and postgresql for database</p>
 
 ![50w](gif/LoginAndRegister.gif)
 ![100w](gif/SharePhoto.gif)
