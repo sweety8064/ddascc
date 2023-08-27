@@ -15,9 +15,6 @@
 <h2>SearchViewController screen</h2>
 
 ![100w](gif/SearchViewController.gif)<br>
-<h2>ProfileViewController Screen</h2>
-
-![100w](gif/ProfileViewController.gif)<br>
-
 <h2>Sign Out Screen</h2>
+
 ![100w](gif/Logout.gif)<br>
