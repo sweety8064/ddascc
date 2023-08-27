@@ -1,2 +1,2 @@
-![200w](200w.gif)
-![200w](login&register.gif)
+An instagram clone app made with swift uikit and postgresql for database
+![100w](login&register.gif)
