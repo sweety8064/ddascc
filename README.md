@@ -1,1 +1,1 @@
-![jkjk]([https://github.com/sweety8064/ddascc/200w.gif](https://media0.giphy.com/media/OLHoXQgCVSWnfaVgXZ/200w.gif?cid=6c09b952dnvgmnsrisiyfv75yc4q63qaoshdmo26xgxlku2y&ep=v1_gifs_search&rid=200w.gif&ct=s)https://media0.giphy.com/media/OLHoXQgCVSWnfaVgXZ/200w.gif?cid=6c09b952dnvgmnsrisiyfv75yc4q63qaoshdmo26xgxlku2y&ep=v1_gifs_search&rid=200w.gif&ct=s)
+![jkjk](https://github.com/sweety8064/ddascc/200w.gif)
