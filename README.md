@@ -12,7 +12,10 @@
 <h2>Home Feed</h2>
 
 ![100w](gif/HomeViewController.gif)<br>
-<h2>Search User</h2>
+<h2>Profile</h2>
+
+![100w](gif/ProfileViewController.gif)<br>
+<h2>Search</h2>
 
 ![100w](gif/SearchViewController.gif)<br>
 <h2>Sign Out</h2>
