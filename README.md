@@ -3,7 +3,8 @@
 
 <h2>Register And Login Screen</h2>
 
-![100w](gif/LoginAndRegister.gif)<br>
+![100w](gif/LoginAndRegister.gif)
+<br>
 <h2>Sharing Feed Screen</h2>
 
 ![100w](gif/SharePhoto.gif)<br>
