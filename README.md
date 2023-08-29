@@ -1,8 +1,10 @@
 <h1>Introduction</h1>
-<p>An instagram clone app made with swift uikit and postgresql for database</p>
+<p>An Instagram clone app made with swift UIKit and Postgresql for database</p>
 
 <p>Technology use in this project</p>
 <p>OOP, Programmatic UIKit, Auto Layout, UICollectionView, UIStackView, MVVM Architecture Pattern, Dispatch Queues, NSURLSession, JSON, SDWebImage, Firebase Auth, XLPagerTabStrip</p>
+
+<p>Backend: https://github.com/sweety8064/BasicIGCloneBackend</p>
 
 <h1>Demonstrate</h2>
 
