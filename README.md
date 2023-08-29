@@ -1,7 +1,7 @@
 <h1>Introduction</h1>
 <p>An instagram clone app made with swift uikit and postgresql for database</p>
 
-<h2>Technology use in this project</h2>
+<p>Technology use in this project</p>
 <p>OOP, Programmatic UIKit, Auto Layout, UICollectionView, UIStackView, MVVM Architecture Pattern, Dispatch Queues, NSURLSession, JSON, SDWebImage, Firebase Auth, XLPagerTabStrip</p>
 
 <h1>Demonstrate</h2>
