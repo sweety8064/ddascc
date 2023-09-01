@@ -1,6 +1,6 @@
 <h1>Introduction</h1>
 <p>An Instagram clone app made with swift UIKit and Postgresql for database</p>
-
+Demo Link: https://htmlpreview.github.io/?https://github.com/sweety8064/SpeedTyperGame/blob/main/SpeedTyper.html
 <p>Technology use in this project</p>
 <p>OOP, Programmatic UIKit, Auto Layout, UICollectionView, UIStackView, MVVM Architecture Pattern, Dispatch Queues, NSURLSession, JSON, SDWebImage, Firebase Auth, XLPagerTabStrip</p>
 
